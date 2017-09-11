@@ -7,13 +7,27 @@ It is is a buffer area that can provide a flexbility of preparing commit.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+Always commit the file in the staging area after making per logical change.
+
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+When developing complex product, different aspects or direictions will emerge which will require branches.
+
+
 How do the diagrams help you visualize the branch structure?
+
+That is the only way I know so far that I can trace back.
+ 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Combine the works that colabrated by different people. 
+
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+It is handy while there are still posibilites of errorness when use automatic mergeing.
