@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 The folder is transformed to a repository when we need version control.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It is is a buffer area that can provide a flexbility of preparing commit. 
